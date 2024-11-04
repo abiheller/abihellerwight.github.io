@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 
 group :jekyll_plugins do
-  gem 'public_suffix', '~> 6.0'
+  gem 'public_suffix', '~> 5.1'
   gem 'tzinfo-data'
   gem 'wdm', '>= 0.1.0'
   gem 'jekyll'
