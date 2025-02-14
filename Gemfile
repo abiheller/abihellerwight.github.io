@@ -6,7 +6,6 @@ group :jekyll_plugins do
   gem 'tzinfo', '~> 1.2'
   gem 'wdm', '>= 0.1.0'
   gem 'jekyll'
-  gem 'jekyll', '~> 4.3'
   gem 'jekyll-feed'
   gem 'jekyll-sitemap'
   gem 'jemoji'

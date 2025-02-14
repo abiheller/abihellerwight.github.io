@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : ""
 title_separator          : "-"
 name                     : &name "Abi Heller-Wight"
-description              : &description "MD/PhD Student (G3) at the University of Nebraska Medical Center"
+description              : &description "MD/PhD Student (G4) at the University of Nebraska Medical Center"
 url                      : https://abihellerwight.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "abihellerwight.github.io"
@@ -21,12 +21,13 @@ repository               : "abihellerwight.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "HeadShot.png"
+  name             : "Abi Heller-Wight"
   pronouns         : "she/her"  
   bio              : "MD/PhD Student (G3) in the Department of Neurological Sciences at the Univeristy of Nebraska Medical Center"
   location         : "Omaha, NE"
-  employer         : "University of Nebraska Medical Center"
+  employer         : "University of Nebraska \n
+                        Medical Center"
   uri              : # URL
   email            : "abi.heller@unmc.edu" 
 
@@ -49,7 +50,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : "@abihellerwight.bsky.social"
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -66,7 +67,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "@abihellerwight"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
